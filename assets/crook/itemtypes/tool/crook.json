@@ -1,0 +1,11 @@
+{
+  code: "crook",
+  durability: 20,
+  damagedby: [ "blockbreaking" ],
+  creativeinventory: {
+    "general": ["*"]
+  },
+  texture: {
+    base: "item/crook"
+  }
+}

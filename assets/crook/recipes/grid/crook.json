@@ -1,0 +1,9 @@
+ {
+	ingredientPattern: "SS_,_S_,_S_",
+	width: 3,
+	height: 3,
+	ingredients: {
+		"S": { type: "item", code: "game:stick"}
+	},
+	output: { type: "item", code: "crook"}
+}
