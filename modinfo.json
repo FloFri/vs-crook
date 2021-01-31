@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "crook",
+  "name": "Crook Mod",
+  "author": "FloFri",
+  "description": "Craftable crook to increase sappling drop",
+  "version": "1.0.0",
+  "dependency": {
+    "game": "*"
+  }
+}
